@@ -1,0 +1,32 @@
++----------------+------------------+-------+
+|      City      |       Name       | State |
++----------------+------------------+-------+
+| Orcutt         | Dylan Thornton   | CA    |
+| La Junta       | Braxton Berry    | CO    |
+| Dyersville     | Chase Brunscheen | IA    |
+| Denison        | Shane DeMey      | IA    |
+| Sioux Center   | Eric Faber       | IA    |
+| Center Point   | Bobby Hansen     | IA    |
+| Independence   | Sean Johnson     | IA    |
+| Estherville    | Alissa Palsrok   | IA    |
+| Silvis         | Jesse Bodin      | IL    |
+| Sterling       | Travis Denning   | IL    |
+| East Dubuque   | T.J. Fortmann    | IL    |
+| Silvis         | Evan Miller      | IL    |
+| Colona         | Clint Morehouse  | IL    |
+| Council Bluffs | Jordan Krug      | IS    |
+| Hays           | Troy Burkhart    | KS    |
+| Hoisington     | Mike Petersilie  | KS    |
+| Cadet          | Adam Parmeley    | MO    |
+| Newman Grove   | Alex Banks       | NE    |
+| Newman Grove   | Cory Dumpert     | NE    |
+| Norfolk        | Matt Haase       | NE    |
+| Plainview      | Beau Johnson     | NE    |
+| Cairo          | J.J. Rodeman     | NE    |
+| Columbus       | Anthony Roth     | NE    |
+| Omaha          | Cooper Tilley    | NE    |
+| Bellevue       | Zach Zeitner     | NE    |
+| Beresford      | Keegan Nordquist | SD    |
+| Crandall       | Chase Raymond    | TX    |
++----------------+------------------+-------+
+(27 rows)

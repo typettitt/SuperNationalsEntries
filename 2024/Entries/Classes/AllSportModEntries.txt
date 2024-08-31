@@ -1,0 +1,186 @@
++------------------+---------------------+-------+
+|       City       |        Name         | State |
++------------------+---------------------+-------+
+| Mesa             | Cody Center         | AZ    |
+| Yuma             | Joshua Cordova      | AZ    |
+| Yuma             | Crystal Hemphill    | AZ    |
+| Cave Creek       | Taylor Kuehl        | AZ    |
+| Yuma             | Schannon Mohamed    | AZ    |
+| Yuma             | Hudson Morris       | AZ    |
+| Yuma             | Miles Morris        | AZ    |
+| Glendale         | Casey Murdoch       | AZ    |
+| Yuma             | Ty Rogers           | AZ    |
+| Bakersfield      | Adam Baker          | CA    |
+| Bakersfield      | Brian Baker         | CA    |
+| Bakersfield      | Jason Bannister     | CA    |
+| Bakersfield      | Tyler Bannister     | CA    |
+| Bakersfield      | Zander Keeland      | CA    |
+| Bakersfield      | Tate Loftis         | CA    |
+| Susanville       | Cole Olexiewicz     | CA    |
+| Yreka            | Ryan Peery          | CA    |
+| Bakersfield      | John Piker          | CA    |
+| Chowchilla       | Emali VanHoff       | CA    |
+| Baypoint         | Danny Wagner        | CA    |
+| Fort Morgan      | Douglas Beaman      | CO    |
+| Fort Morgan      | Tyler Beaman        | CO    |
+| Colorado Springs | Danny Concelman     | CO    |
+| Denver           | Jorge Garcia        | CO    |
+| Henderson        | Jeff Hunter         | CO    |
+| Englewood        | Ryan Moser          | CO    |
+| Colorado Springs | Derek Murphy        | CO    |
+| Holly            | Brendyn Nordyke     | CO    |
+| Holly            | Monty Nordyke       | CO    |
+| Coaldale         | Frank Ogden         | CO    |
+| Evans            | Bill Smith          | CO    |
+| Fort Morgan      | Hunter Smith        | CO    |
+| Dove Creek       | Brody Spangler      | CO    |
+| Clear Lake       | Nate Albrant        | IA    |
+| Eddyville        | Logan Anderson      | IA    |
+| Boone            | Matt Avila          | IA    |
+| Pierson          | Jacob Beckstrom     | IA    |
+| Indianola        | Joey Boylan         | IA    |
+| Altoona          | Chris Burke         | IA    |
+| Boone            | Jason Carney        | IA    |
+| Oskaloosa        | Brayton Carter      | IA    |
+| Indianola        | B.J. Charlson       | IA    |
+| Sioux City       | Jonah Chinn         | IA    |
+| Algona           | Randy Cram          | IA    |
+| Montezuma        | Maquire DeJong      | IA    |
+| Dysart           | Joel Docekal        | IA    |
+| Ankeny           | Kenser Ellis        | IA    |
+| Boone            | Josalyn Elmquist    | IA    |
+| Burt             | Alec Fett           | IA    |
+| Algona           | Colby Fett          | IA    |
+| Thompson         | Drew Fett           | IA    |
+| Maquoketa        | Jarett Franzen      | IA    |
+| Boone            | Christopher Frisbie | IA    |
+| Kingsley         | Gregg Hamman        | IA    |
+| Ankeny           | Randy Havlik        | IA    |
+| Ottumwa          | Tyler Heckart       | IA    |
+| Waukee           | Gage Hilgenberg     | IA    |
+| Harlan           | Hayden Hillgartner  | IA    |
+| Harlan           | Zeke Hillgartner    | IA    |
+| Dysart           | Brady Hilmer        | IA    |
+| Boone            | David Hoover        | IA    |
+| Altoona          | Tyler Inman         | IA    |
+| Sioux City       | Luke Jackson        | IA    |
+| Perry            | Brian Johnson       | IA    |
+| Sloan            | Willy Kirk          | IA    |
+| Ottumwa          | Tom Lathrop         | IA    |
+| Roland           | Ryan Leeman         | IA    |
+| Woodward         | Hunter Longnecker   | IA    |
+| Swea City        | Matthew Looft       | IA    |
+| Boone            | Dustin Lynch        | IA    |
+| Avoca            | Corey Madden        | IA    |
+| Mechanicsville   | Tyler Maschmann     | IA    |
+| Des Moines       | Dusty Masolini      | IA    |
+| Webster City     | Doug McCollough     | IA    |
+| Newton           | Steve McLaughlin    | IA    |
+| St. Charles      | Bryan Morris        | IA    |
+| St. Charles      | Mitchell Morris     | IA    |
+| Osceola          | Garrett Nelson      | IA    |
+| Sioux City       | Jake Newsom         | IA    |
+| Armstrong        | Robb Nutt           | IA    |
+| Sioux City       | Geoff Olson         | IA    |
+| Cedar Rapids     | Kyle Olson          | IA    |
+| Cedar Rapids     | Tony Olson          | IA    |
+| Muscatine        | Shane Paris         | IA    |
+| Boone            | Cory Pestotnik      | IA    |
+| Le Mars          | Austin Price        | IA    |
+| Burt             | Justin Raymond      | IA    |
+| Otho             | Jeremiah Reed       | IA    |
+| Dunlap           | Joe Reetz           | IA    |
+| Kelley           | Cam Reimers         | IA    |
+| Le Mars          | Darin Roepke        | IA    |
+| Morning Sun      | Joel Roller         | IA    |
+| Manning          | Jake Sachau         | IA    |
+| Cresco           | Brian Schrage       | IA    |
+| Dike             | Curt Smeins         | IA    |
+| Algona           | Alex Smith          | IA    |
+| Lake City        | Doug Smith          | IA    |
+| Malvern          | Matt Smith          | IA    |
+| Sioux City       | Brody Spreng        | IA    |
+| Algona           | Charlie Stevens     | IA    |
+| Boone            | Jessiah Taylor      | IA    |
+| Sioux City       | Chad Ten Napel      | IA    |
+| Vinton           | Brandon Tharp       | IA    |
+| Walker           | Brett Thomas        | IA    |
+| Oskaloosa        | Dylan Van Wyk       | IA    |
+| Polk City        | Curtis Veber        | IA    |
+| Armstrong        | Bill Wegner         | IA    |
+| Eldora           | Chase Weimer        | IA    |
+| Grinnell         | Will Wolf           | IA    |
+| Kiron            | Brandon Wulf        | IA    |
+| Pearl City       | Rayce Mullen        | IL    |
+| Orangeville      | Austin Stamm        | IL    |
+| Colona           | Logan Veloz         | IL    |
+| Liberty          | Reed Wolfmeyer      | IL    |
+| Lindsborg        | Connor Barnes       | KS    |
+| Colby            | Josh Barnhart       | KS    |
+| Belleville       | Tyler Frye          | KS    |
+| Munjor           | Kamren Gruber       | KS    |
+| Salina           | Stacey Huffman      | KS    |
+| Salina           | Warren Huffman      | KS    |
+| Kansas City      | Eddie Ingram        | KS    |
+| Beloit           | Eric Ingram         | KS    |
+| Iron Mountain    | Frank Gasperini     | MI    |
+| Slayton          | Brayden Ahlers      | MN    |
+| New Ulm          | Broddy Enter        | MN    |
+| Gibbon           | Cole Hesse          | MN    |
+| Madison Lake     | Mike Kennedy        | MN    |
+| Fairmont         | Jayden Oskerson     | MN    |
+| Franklin         | John Rebstock       | MN    |
+| Arlington        | Ben Reierson        | MN    |
+| Revere           | Dakota Anderson     | MO    |
+| Canton           | Adam Birck          | MO    |
+| Lewistown        | Nathan Bringer      | MO    |
+| Cameron          | Coleman Browning    | MO    |
+| St. Joseph       | P.J. Conger         | MO    |
+| Arbela           | Brandon Dale        | MO    |
+| Brighton         | Trevor Drake        | MO    |
+| St. Joseph       | Tim Eaton           | MO    |
+| Moberly          | Dakota Girard       | MO    |
+| Moberly          | Kyler Girard        | MO    |
+| St. Joseph       | Doug Heimbaugh      | MO    |
+| Gallatin         | Carson Lang         | MO    |
+| Big Spring       | Mike Monnig         | MO    |
+| Trimble          | Chad Shaw           | MO    |
+| Jefferson City   | Matt Spiess         | MO    |
+| Minot            | Cole Hanshew        | ND    |
+| Minot            | Robby Rosselli      | ND    |
+| Wilton           | Nathan Speten       | ND    |
+| Meadow Grove     | Justin Addison      | NE    |
+| Hershey          | Troy Bayne          | NE    |
+| South Sioux City | Josh Blom           | NE    |
+| Columbus         | Tyler Bridges       | NE    |
+| North Platte     | Joseph Cooper       | NE    |
+| Valparaiso       | Robert Draper       | NE    |
+| Norfolk          | Aiden Gnat          | NE    |
+| Fairbury         | Lee Horky           | NE    |
+| Norfolk          | Jonathan Jensen     | NE    |
+| Norfolk          | Colby Langenberg    | NE    |
+| Pierce           | Cameron Meyer       | NE    |
+| Bellevue         | Nick Morris         | NE    |
+| Dorchester       | Tyler Nerud         | NE    |
+| Overton          | Jacob Olmstead      | NE    |
+| Columbus         | Riley Osantowski    | NE    |
+| Waco             | Claton Peters       | NE    |
+| Spalding         | Robbie Thome        | NE    |
+| Eagle            | Adam Vrbka          | NE    |
+| Central Point    | Jorddon Braaten     | OR    |
+| Brandon          | Jared Nytroe        | SD    |
+| Price            | Kade Dimick         | UT    |
+| Price            | Payce Herrera       | UT    |
+| Omro             | Kaden Besaw         | WI    |
+| Cuba City        | Wes Digman          | WI    |
+| Beaver Dam       | Derek Fehling       | WI    |
+| Tripoli          | CJ Hedges           | WI    |
+| Rhinelander      | Dan Melton          | WI    |
+| Antigo           | Zachary Raab        | WI    |
+| Chilton          | Colton See          | WI    |
+| Greenville       | Jared Spaulding     | WI    |
+| Casco            | Coy Vlies           | WI    |
+| Antigo           | Dylon Waldvogel     | WI    |
+| Eagle River      | Dustin White        | WI    |
++------------------+---------------------+-------+
+(181 rows)

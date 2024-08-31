@@ -1,0 +1,82 @@
++-------------------+---------------------+-------+
+|       City        |        Name         | State |
++-------------------+---------------------+-------+
+| San Diego         | Kevin Reuter        | CA    |
+| Golden            | Jeff Klinkefus      | CO    |
+| Sioux City        | Gilbert Aldape      | IA    |
+| Marshalltown      | Bryce Bartel        | IA    |
+| Durant            | Jake Benischek      | IA    |
+| Charlotte         | Mitch Bielenberg    | IA    |
+| Mason City        | Ryan Bryant         | IA    |
+| Vinton            | Jeff Burgess        | IA    |
+| Cedar Rapids      | Jay Crabill         | IA    |
+| Clear Lake        | Dalton Cullinan     | IA    |
+| Spencer           | Kaytee DeVries      | IA    |
+| Stuart            | Tyler Fiebelkorn    | IA    |
+| West Point        | Chuck Fullenkamp    | IA    |
+| Cedar Rapids      | Cristian Grady      | IA    |
+| St. Charles       | Rusty Gyles         | IA    |
+| Council Bluffs    | Tyler Housley       | IA    |
+| Indianola         | Bruce Hower         | IA    |
+| Mason City        | Devin Jones         | IA    |
+| New Virginia      | David Kimmel        | IA    |
+| Waterloo          | Jace Knight         | IA    |
+| Waterloo          | Christopher Mannion | IA    |
+| New Virginia      | Curtis Masterson    | IA    |
+| Columbus Junction | William Michel      | IA    |
+| Dow City          | Gavin Miller        | IA    |
+| Ottumwa           | Matthew Moore       | IA    |
+| Milford           | Brooke Osler        | IA    |
+| St. Charles       | Hunter Patrick      | IA    |
+| Dunkerton         | Chris Pittman       | IA    |
+| Britt             | Charles Prime       | IA    |
+| Granville         | Nathan Recker       | IA    |
+| Donnellson        | Brandon Reu         | IA    |
+| Amana             | Spencer Roggentien  | IA    |
+| Wall Lake         | Sam Schmitt         | IA    |
+| Burlington        | Tim Schnathorst     | IA    |
+| Huxley            | Mark Smith          | IA    |
+| Mapleton          | Alyssa Thies        | IA    |
+| Vinton            | Jaice Tuttle        | IA    |
+| Sioux City        | Mike Vogt           | IA    |
+| Correctionville   | Levi Volkert        | IA    |
+| Vinton            | Zeke Wheeler        | IA    |
+| Oskaloosa         | Jeremy Williams     | IA    |
+| Clare             | Josh Winegarden     | IA    |
+| Agency            | Colton Zaputil      | IA    |
+| Bowen             | Bobby Douglas       | IL    |
+| Lyons             | Dan Kruse           | KS    |
+| Goodland          | Serth Miller        | KS    |
+| Nortonville       | Devin Schmidt       | KS    |
+| Pillager          | Brandon Backstrom   | MN    |
+| Pillager          | Josh Backstrom      | MN    |
+| Mankato           | Jerry Coopman       | MN    |
+| Mankato           | Nate Coopman        | MN    |
+| Brainerd          | Andrew Malinowski   | MN    |
+| Sauk Rapids       | Jack Post           | MN    |
+| Emily             | Baylen Rooker       | MN    |
+| Lecenter          | Mick Rykhus         | MN    |
+| Hannibal          | Dyllan Bonk         | MO    |
+| Bois D'arc        | Tyrel Jones         | MO    |
+| Minot             | Benjamin Burke      | ND    |
+| Minot             | Josh Duchsherer     | ND    |
+| Hastings          | Rileigh Flohrs      | NE    |
+| Beatrice          | Trey Hinton         | NE    |
+| Wymore            | Kaylee Richards     | NE    |
+| Grand Island      | Justin Schmidt      | NE    |
+| Kearney           | Anthony Simants     | NE    |
+| Beatrice          | Johnny Thomas       | NE    |
+| Enid              | Jason Weber         | OK    |
+| Enid              | Dylan Whitley       | OK    |
+| Medford           | Ally Luna-Richey    | OR    |
+| Yankton           | Taylor Brown        | SD    |
+| Sweetwater        | Blake Andrus        | TX    |
+| Italy             | Devon Bowles        | TX    |
+| Burleson          | Mark Earl           | TX    |
+| Elgin             | Gabriella King      | TX    |
+| Mansfield         | Sean Leasure        | TX    |
+| Springtown        | Randall Martin      | TX    |
+| Red Oak           | Brian Newcomer      | TX    |
+| Decatur           | Stephen Stiteler    | TX    |
++-------------------+---------------------+-------+
+(77 rows)

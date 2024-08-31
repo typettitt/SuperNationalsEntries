@@ -1,0 +1,88 @@
++------------------+----------------------+-------+
+|       City       |         Name         | State |
++------------------+----------------------+-------+
+| Hot Springs      | Paul Alban           | AR    |
+| Hensley          | Benny Baker          | AR    |
+| Searcy           | Devin Bryant         | AR    |
+| Hot Springs      | Jason Castleberry    | AR    |
+| Wilburn          | Bobby Hill           | AR    |
+| Wilburn          | Dalton Hill          | AR    |
+| Wilburn          | Dylan Hill           | AR    |
+| Searcy           | Gage Raines          | AR    |
+| Nashville        | Jace Reid            | AR    |
+| Arkadelphia      | James Rollins        | AR    |
+| Ozark            | Candi Varney         | AR    |
+| Ozark            | Tim Varney           | AR    |
+| West Memphis     | Bryce Vowan          | AR    |
+| Mabelvale        | Blake Wilson         | AR    |
+| Mabelvale        | Jeromy Wilson        | AR    |
+| North Fort Myers | Ben Blalock          | FL    |
+| Huxley           | Colin Anderson       | IA    |
+| Huxley           | Garrison Anderson    | IA    |
+| Huxley           | Grant Anderson       | IA    |
+| Carlisle         | Scott Bailey         | IA    |
+| Nevada           | Cliff Barber         | IA    |
+| Story City       | Jon Braathun         | IA    |
+| Nevada           | Charlie Brown        | IA    |
+| Ames             | Randy Bryan          | IA    |
+| Milo             | Dillion Bush         | IA    |
+| Des Moines       | Jaxon Carr           | IA    |
+| Madrid           | Bryan Compart        | IA    |
+| Mechanicsville   | Alex Eischeid        | IA    |
+| Altoona          | Ben George           | IA    |
+| Madrid           | Joe Glick            | IA    |
+| Madrid           | Tracen Glick         | IA    |
+| Story City       | Austin Gray          | IA    |
+| Des Moines       | Joel Huggins         | IA    |
+| Pleasant Hill    | Chelsea Ladurini     | IA    |
+| Des Moines       | Josh May             | IA    |
+| West Des Moines  | William Nobles       | IA    |
+| Adel             | Colby Oberembt       | IA    |
+| Polk City        | Cory Sonner          | IA    |
+| Nevada           | Jeff Stensland       | IA    |
+| Nevada           | Travis Stensland     | IA    |
+| Ames             | Jason Toppenberg     | IA    |
+| Iowa City        | James Wonick         | IA    |
+| Metamora         | Brandon Freeburg     | IL    |
+| Woodhull         | Zach Holerud         | IL    |
+| Freeman Spur     | Josh Hutchinson      | IL    |
+| Colchester       | Michael Mann         | IL    |
+| Colona           | Jason Masengarb      | IL    |
+| Colona           | Mike Morrow          | IL    |
+| Silvis           | Jon Padilla          | IL    |
+| Colchester       | Mike Pershing        | IL    |
+| Colchester       | Robert Thompson      | IL    |
+| Kokomo           | Joe Boyll            | IN    |
+| Salina           | Justin Kinderknecht  | KS    |
+| Franklin         | Dennis Cooper        | KY    |
+| Farmington       | Mat Boyd             | MO    |
+| St. Louis        | Randy Coleman        | MO    |
+| Farmington       | Sam Coleman          | MO    |
+| Belton           | Tyler Furrell        | MO    |
+| Pleasant Hill    | Ed Griggs            | MO    |
+| Creighton        | Charlie Laizure      | MO    |
+| Kansas City      | Dillon Raffurty      | MO    |
+| Kearney          | Justin Raffurty      | MO    |
+| Kansas City      | Michael Raffurty     | MO    |
+| Lawson           | Garrett Stonum       | MO    |
+| Lee's Summit     | Nathan Wolfe         | MO    |
+| Fulton           | Kyle Demo            | NY    |
+| West Monroe      | Joe Isabell          | NY    |
+| Fulton           | Matt Kitts           | NY    |
+| Union Springs    | Roger Olschewske Jr. | NY    |
+| Central Square   | Doug Williams        | NY    |
+| Syracuse         | Justin Williams      | NY    |
+| Cookeville       | Ronnie Choate        | TN    |
+| Wildersville     | Riley Clem           | TN    |
+| Murfreesboro     | Jaedon McDowell      | TN    |
+| Shelbyville      | Chase Walls          | TN    |
+| Orange           | Johnny Brown         | TX    |
+| Lumberton        | Christopher Buxton   | TX    |
+| Port Neches      | Kevin Carl           | TX    |
+| Mt. Vernon       | Chad Cunningham      | TX    |
+| Lumberton        | Chris Danna          | TX    |
+| Vidor            | Shane Jenkins        | TX    |
+| Vidor            | Scott Jordan         | TX    |
+| Beaumont         | Jacob Rayburn        | TX    |
++------------------+----------------------+-------+
+(83 rows)

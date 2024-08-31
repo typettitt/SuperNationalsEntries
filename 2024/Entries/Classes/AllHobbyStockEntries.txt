@@ -1,0 +1,169 @@
++--------------------+-----------------------------+-------+
+|        City        |            Name             | State |
++--------------------+-----------------------------+-------+
+| Phoenix            | Scott Bernards              | AZ    |
+| San Jose           | Bobby Gallaher              | CA    |
+| Brush              | David Banks                 | CO    |
+| La Junta           | Gordon French               | CO    |
+| Fort Morgan        | Brayden Hilzer              | CO    |
+| Sedalia            | Nash Koehn                  | CO    |
+| Strasburg          | John Thomas                 | CO    |
+| Rocky Ford         | Justin Yutterman            | CO    |
+| Palm Beach Gardens | Joel Magee                  | FL    |
+| Ames               | Nicholas Adams              | IA    |
+| Armstrong          | Nathan Asche                | IA    |
+| Callender          | Brian Ashburn               | IA    |
+| Merrill            | Zach Bales                  | IA    |
+| Independence       | Garrett Ball                | IA    |
+| Independence       | Jim Ball                    | IA    |
+| Independence       | Tyler Ball                  | IA    |
+| Marengo            | Nathan Ballard              | IA    |
+| Sioux Rapids       | Drew Barglof                | IA    |
+| Casey              | Rusty Bates                 | IA    |
+| Minburn            | Solomon Bennett             | IA    |
+| Dysart             | Matt Brown                  | IA    |
+| Le Mars            | Kalyb Brunssen              | IA    |
+| Adel               | Andrew Burg                 | IA    |
+| Adel               | Keith Burg                  | IA    |
+| Glidden            | Seth Butler                 | IA    |
+| Audubon            | Colby Christensen           | IA    |
+| Coon Rapids        | Christian Cook              | IA    |
+| Hinton             | Carter Davis                | IA    |
+| Buffalo Center     | Brett Doege                 | IA    |
+| Promise City       | Jeremy Dooley               | IA    |
+| Paton              | Joe Doran                   | IA    |
+| Boone              | Stephen Doss                | IA    |
+| Boone              | Aaron Elliott               | IA    |
+| Pleasantville      | Carl Ellis                  | IA    |
+| Marshalltown       | Brayden Fahrni              | IA    |
+| Tama               | Dustin Filloon              | IA    |
+| Denison            | Jeff Fink                   | IA    |
+| Cedar Rapids       | Jacob Floyd                 | IA    |
+| Cleghorn           | Justin Frederick            | IA    |
+| Sioux City         | Zach Frye                   | IA    |
+| Alden              | Aron Fye                    | IA    |
+| Boone              | Braden Gifford              | IA    |
+| Boone              | Wayne Gifford               | IA    |
+| Brooklyn           | Brad Graham                 | IA    |
+| Victor             | Bradly Graham               | IA    |
+| Algona             | Dan Hanselman               | IA    |
+| Marne              | Zach Hemmingsen             | IA    |
+| Sigourney          | Kale Hemsley                | IA    |
+| Sioux City         | Andy Hoffman                | IA    |
+| Altoona            | Brandon Holbrook            | IA    |
+| Rolfe              | Cody Hubbell                | IA    |
+| Mason City         | Andrew Inman                | IA    |
+| Ogden              | Seth Janssen                | IA    |
+| Troy Mills         | Kyle Jared                  | IA    |
+| Red Oak            | Bennett Johnson             | IA    |
+| Dickens            | Darin Johnson               | IA    |
+| Cherokee           | James Johnson               | IA    |
+| Des Moines         | Tom Killen Jr.              | IA    |
+| Vinton             | Michael Kimm                | IA    |
+| Missouri Valley    | Jason Kohl                  | IA    |
+| Brooklyn           | Briar Kriegel               | IA    |
+| Brooklyn           | Rick Kriegel                | IA    |
+| Emmetsburg         | Chris Krug                  | IA    |
+| Buffalo            | Randy LaMar                 | IA    |
+| Marshalltown       | Aidan Lamasters             | IA    |
+| Sioux City         | Austin Lundquist            | IA    |
+| Sioux City         | Les Lundquist               | IA    |
+| Avoca              | Chuck Madden Jr.            | IA    |
+| Waterloo           | Chad Mannion                | IA    |
+| Scranton           | Matt McDonald               | IA    |
+| Independence       | Zach McNeese                | IA    |
+| Jamaica            | Mitchell McNeill            | IA    |
+| Bernard            | Jordan Miles                | IA    |
+| Bernard            | Karter Miles                | IA    |
+| Sheldon            | Carl Monroe                 | IA    |
+| Adel               | Dylan Nelson                | IA    |
+| Ankeny             | Matt Nelson                 | IA    |
+| Quasqueton         | Trenton Neuhaus             | IA    |
+| Spencer            | Brandon Nielsen             | IA    |
+| Carlisle           | Tyson Overton               | IA    |
+| Wapello            | Luke Phillips               | IA    |
+| Stuart             | Skylar Pruitt               | IA    |
+| Des Moines         | Curt Reed                   | IA    |
+| Wapello            | Shane Richardson            | IA    |
+| Marshalltown       | Chad Rickett Jr.            | IA    |
+| Emmetsburg         | Jay Sidles                  | IA    |
+| Emmetsburg         | Josh Sidles                 | IA    |
+| Cedar Rapids       | Scott Siems                 | IA    |
+| Des Moines         | David Simpson               | IA    |
+| Lake City          | Mike Smith                  | IA    |
+| Sioux City         | Tyler Smith                 | IA    |
+| Lake City          | Will Smith                  | IA    |
+| Wapello            | Billy Stanford              | IA    |
+| Carlisle           | Eric Stanton                | IA    |
+| Walker             | Adam Streeter               | IA    |
+| Strawberry Point   | Jeremy Swanson              | IA    |
+| Council Bluffs     | Jason Tetzlaff              | IA    |
+| Madrid             | Adam Tiernan                | IA    |
+| Ogden              | Josh Van Cannon             | IA    |
+| Lynnville          | Corey Van Der Wilt          | IA    |
+| Vinton             | Justin Wacha                | IA    |
+| West Des Moines    | Matthew Wahl                | IA    |
+| Des Moines         | John Watson                 | IA    |
+| Melcher-Dallas     | Ryan Wells                  | IA    |
+| Ferguson           | Sam West                    | IA    |
+| Boone              | Shaun Wirtz                 | IA    |
+| Neola              | Joe Wollehnaupt             | IA    |
+| Indianola          | Joey Young                  | IA    |
+| St. John           | Dylan Bell                  | KS    |
+| Oakley             | Brady Bencken               | KS    |
+| Abilene            | Tommy Pfanenstiel           | KS    |
+| Hays               | Cole Pfeifer                | KS    |
+| Selden             | B.J. Rogers                 | KS    |
+| Minneapolis        | Cody Williams               | KS    |
+| Slayton            | Jordan Ahlers               | MN    |
+| Welcome            | Parker Anderson             | MN    |
+| Mankato            | Corey Black                 | MN    |
+| New Prague         | Brandon Bombardo            | MN    |
+| Granada            | R.J. Esqueda                | MN    |
+| Redwood Falls      | Tayte Harazin               | MN    |
+| Lewisville         | Austin Jahnz                | MN    |
+| St. James          | Wes Jahnz                   | MN    |
+| Glencoe            | Travis Koester              | MN    |
+| Reading            | Blake Luinenburg            | MN    |
+| St. Peter          | George Motto                | MN    |
+| Milaca             | Chase Peterson              | MN    |
+| Redwood Falls      | Hunter Rebstock             | MN    |
+| Rushmore           | John Ross                   | MN    |
+| Adrian             | Evan Schettler              | MN    |
+| Lake Crystal       | Chad Volk                   | MN    |
+| Glencoe            | Adam Wasserman              | MN    |
+| Fairview           | Ethan Neu                   | MT    |
+| Minot              | Caden Appelt                | ND    |
+| Stanley            | Brennor Grinstead           | ND    |
+| Bismarck           | Tyson Grinstead             | ND    |
+| Minot              | Kyler Satran                | ND    |
+| Minot              | Alex Tvedt                  | ND    |
+| Homer              | Gabe Barclay                | NE    |
+| Deshler            | Drew Barry                  | NE    |
+| Beatrice           | Travis Blythe               | NE    |
+| Fremont            | David Carter                | NE    |
+| North Platte       | Rob Durfee                  | NE    |
+| Grand Island       | Jack Greuter                | NE    |
+| Grand Island       | Lonnie Greuter              | NE    |
+| Columbus           | Colin Hein                  | NE    |
+| Grand Island       | Brayden Hurley              | NE    |
+| Grand Island       | Tanner Jones                | NE    |
+| Gothenburg         | Riley Kort                  | NE    |
+| Grand Island       | Tylan Lambertus             | NE    |
+| Loomis             | Chuck Ledbetter             | NE    |
+| Overton            | Zach Olmstead               | NE    |
+| Beatrice           | Dillon Richards             | NE    |
+| Hastings           | Dillon Thompson             | NE    |
+| Juniata            | Tyler Thompson              | NE    |
+| Columbus           | Jordan Troutman             | NE    |
+| Farmington         | Mylee JoAnn Goldwich-Rhames | NM    |
+| Yankton            | Taylor Brown                | SD    |
+| Sioux Falls        | Dustin Gulbrandson          | SD    |
+| Yankton            | Lowell Janssen              | SD    |
+| Price              | Payce Herrera               | UT    |
+| Hollandale         | Jimmy Doescher              | WI    |
+| Benton             | Mark Neis                   | WI    |
+| Boscobel           | Michael Swenson             | WI    |
+| Kellogg            | Calvin Dhondt               | iA    |
++--------------------+-----------------------------+-------+
+(164 rows)
