@@ -1,4 +1,4 @@
-# IMCA Super Nationals Entires
+# IMCA Super Nationals Entries
 
 Parsed entry data from IMCA Press Releases
 1. Navigate to event year
