@@ -1,0 +1,84 @@
++------------------+-------------------+------------------+-------+
+|       City       |       Class       |       Name       | State |
++------------------+-------------------+------------------+-------+
+| Homer            | Hobby Stock       | Gabe Barclay     | NE    |
+| Deshler          | Hobby Stock       | Drew Barry       | NE    |
+| Beatrice         | Hobby Stock       | Travis Blythe    | NE    |
+| Fremont          | Hobby Stock       | David Carter     | NE    |
+| North Platte     | Hobby Stock       | Rob Durfee       | NE    |
+| Grand Island     | Hobby Stock       | Jack Greuter     | NE    |
+| Grand Island     | Hobby Stock       | Lonnie Greuter   | NE    |
+| Columbus         | Hobby Stock       | Colin Hein       | NE    |
+| Grand Island     | Hobby Stock       | Brayden Hurley   | NE    |
+| Grand Island     | Hobby Stock       | Tanner Jones     | NE    |
+| Gothenburg       | Hobby Stock       | Riley Kort       | NE    |
+| Grand Island     | Hobby Stock       | Tylan Lambertus  | NE    |
+| Loomis           | Hobby Stock       | Chuck Ledbetter  | NE    |
+| Overton          | Hobby Stock       | Zach Olmstead    | NE    |
+| Beatrice         | Hobby Stock       | Dillon Richards  | NE    |
+| Hastings         | Hobby Stock       | Dillon Thompson  | NE    |
+| Juniata          | Hobby Stock       | Tyler Thompson   | NE    |
+| Columbus         | Hobby Stock       | Jordan Troutman  | NE    |
+| Newman Grove     | Late Model        | Alex Banks       | NE    |
+| Newman Grove     | Late Model        | Cory Dumpert     | NE    |
+| Norfolk          | Late Model        | Matt Haase       | NE    |
+| Plainview        | Late Model        | Beau Johnson     | NE    |
+| Cairo            | Late Model        | J.J. Rodeman     | NE    |
+| Columbus         | Late Model        | Anthony Roth     | NE    |
+| Omaha            | Late Model        | Cooper Tilley    | NE    |
+| Bellevue         | Late Model        | Zach Zeitner     | NE    |
+| Plattsmouth      | Modified          | Jacob Hobscheidt | NE    |
+| Fremont          | Modified          | Mike Lineberry   | NE    |
+| Bennington       | Modified          | Sean Manning     | NE    |
+| South Sioux City | Modified          | R.J. Merchant    | NE    |
+| Brady            | Modified          | Dave Pedersen    | NE    |
+| Columbus         | Modified          | Anthony Roth     | NE    |
+| Beatrice         | Modified          | Jaxon Saathoff   | NE    |
+| Beatrice         | Modified          | Johnny Saathoff  | NE    |
+| Lincoln          | Modified          | Ashley Schaaf    | NE    |
+| North Platte     | Modified          | Ayden Steffens   | NE    |
+| South Sioux City | Modified          | Ricky Stephan    | NE    |
+| McCook           | Modified          | Ronnie Wallace   | NE    |
+| Meadow Grove     | Northern Sportmod | Justin Addison   | NE    |
+| Hershey          | Northern Sportmod | Troy Bayne       | NE    |
+| South Sioux City | Northern Sportmod | Josh Blom        | NE    |
+| Columbus         | Northern Sportmod | Tyler Bridges    | NE    |
+| North Platte     | Northern Sportmod | Joseph Cooper    | NE    |
+| Valparaiso       | Northern Sportmod | Robert Draper    | NE    |
+| Norfolk          | Northern Sportmod | Aiden Gnat       | NE    |
+| Fairbury         | Northern Sportmod | Lee Horky        | NE    |
+| Norfolk          | Northern Sportmod | Jonathan Jensen  | NE    |
+| Norfolk          | Northern Sportmod | Colby Langenberg | NE    |
+| Pierce           | Northern Sportmod | Cameron Meyer    | NE    |
+| Bellevue         | Northern Sportmod | Nick Morris      | NE    |
+| Dorchester       | Northern Sportmod | Tyler Nerud      | NE    |
+| Overton          | Northern Sportmod | Jacob Olmstead   | NE    |
+| Columbus         | Northern Sportmod | Riley Osantowski | NE    |
+| Waco             | Northern Sportmod | Claton Peters    | NE    |
+| Spalding         | Northern Sportmod | Robbie Thome     | NE    |
+| Eagle            | Northern Sportmod | Adam Vrbka       | NE    |
+| Hastings         | Sport Compact     | Rileigh Flohrs   | NE    |
+| Beatrice         | Sport Compact     | Trey Hinton      | NE    |
+| Wymore           | Sport Compact     | Kaylee Richards  | NE    |
+| Grand Island     | Sport Compact     | Justin Schmidt   | NE    |
+| Kearney          | Sport Compact     | Anthony Simants  | NE    |
+| Beatrice         | Sport Compact     | Johnny Thomas    | NE    |
+| Meadow Grove     | Stock Car         | Justin Addison   | NE    |
+| Lincoln          | Stock Car         | Nick Beckman     | NE    |
+| Platte Center    | Stock Car         | Austin Brauner   | NE    |
+| McCook           | Stock Car         | Bob Chalupa      | NE    |
+| North Platte     | Stock Car         | Joseph Cooper    | NE    |
+| Bellwood         | Stock Car         | Tristan Grape    | NE    |
+| Homer            | Stock Car         | Ryan Harris      | NE    |
+| Curtis           | Stock Car         | Bryan Herrick    | NE    |
+| Hastings         | Stock Car         | Andy Huffaker    | NE    |
+| Bassett          | Stock Car         | Jake Kubik       | NE    |
+| Fremont          | Stock Car         | Mike Lineberry   | NE    |
+| Norfolk          | Stock Car         | Tejay Mielke     | NE    |
+| Norfolk          | Stock Car         | Ronn Pettitt     | NE    |
+| Norfolk          | Stock Car         | Tanner Pettitt   | NE    |
+| Grand Island     | Stock Car         | James Pittman    | NE    |
+| Lincoln          | Stock Car         | Arie Schouten    | NE    |
+| Columbus         | Stock Car         | Jeff Ware        | NE    |
++------------------+-------------------+------------------+-------+
+(79 rows)

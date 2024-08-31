@@ -1,0 +1,98 @@
++---------------+-------------------+---------------------+-------+
+|     City      |       Class       |        Name         | State |
++---------------+-------------------+---------------------+-------+
+| Columbus      | Modified          | Anthony Roth        | NE    |
+| Columbus      | Late Model        | Anthony Roth        | NE    |
+| Savoy         | Modified          | Beau Collins        | TX    |
+| Savoy         | Stock Car         | Beau Collins        | TX    |
+| Beaver Dam    | Modified          | Brandon Schmitt     | WI    |
+| Beaver Dam    | Stock Car         | Brandon Schmitt     | WI    |
+| Trimble       | Stock Car         | Chad Shaw           | MO    |
+| Trimble       | Northern Sportmod | Chad Shaw           | MO    |
+| Eldora        | Stock Car         | Chase Weimer        | IA    |
+| Eldora        | Northern Sportmod | Chase Weimer        | IA    |
+| Mesa          | Modified          | Chaz Baca           | AZ    |
+| Mesa          | Stock Car         | Chaz Baca           | AZ    |
+| Thorndale     | Modified          | Chris Morris        | TX    |
+| Thorndale     | Stock Car         | Chris Morris        | TX    |
+| Sinton        | Modified          | Cody Leonard        | TX    |
+| Sinton        | Stock Car         | Cody Leonard        | TX    |
+| Algona        | Stock Car         | Colby Fett          | IA    |
+| Algona        | Northern Sportmod | Colby Fett          | IA    |
+| Denmark       | Modified          | Cole Czarneski      | WI    |
+| Denmark       | Stock Car         | Cole Czarneski      | WI    |
+| Chelsea       | Modified          | Dallon Murty        | IA    |
+| Chelsea       | Stock Car         | Dallon Murty        | IA    |
+| Lake City     | Stock Car         | Doug Smith          | IA    |
+| Lake City     | Northern Sportmod | Doug Smith          | IA    |
+| Orcutt        | Modified          | Dylan Thornton      | CA    |
+| Orcutt        | Stock Car         | Dylan Thornton      | CA    |
+| Orcutt        | Late Model        | Dylan Thornton      | CA    |
+| Kansas City   | Stock Car         | Eddie Ingram        | KS    |
+| Kansas City   | Northern Sportmod | Eddie Ingram        | KS    |
+| Coaldale      | Stock Car         | Frank Ogden         | CO    |
+| Coaldale      | Northern Sportmod | Frank Ogden         | CO    |
+| Boone         | Modified          | Jake McBirnie       | IA    |
+| Boone         | Stock Car         | Jake McBirnie       | IA    |
+| Manning       | Stock Car         | Jake Sachau         | IA    |
+| Manning       | Northern Sportmod | Jake Sachau         | IA    |
+| Clear Lake    | Modified          | Jeremy Mills        | IA    |
+| Clear Lake    | Stock Car         | Jeremy Mills        | IA    |
+| Medford       | Modified          | Jeremy Richey       | OR    |
+| Medford       | Stock Car         | Jeremy Richey       | OR    |
+| Marshalltown  | Modified          | Jimmy Gustin        | IA    |
+| Marshalltown  | Stock Car         | Jimmy Gustin        | IA    |
+| Grundy Cneter | Modified          | Joel Rust           | IA    |
+| Grundy Center | Stock Car         | Joel Rust           | IA    |
+| Phoenix       | Modified          | John Parmeley       | AZ    |
+| Phoenix       | Stock Car         | John Parmeley       | AZ    |
+| Logansport    | Modified          | Johnathon Logue     | IA    |
+| Logansport    | Stock Car         | Johnathon Logue     | IA    |
+| North Platte  | Stock Car         | Joseph Cooper       | NE    |
+| North Platte  | Northern Sportmod | Joseph Cooper       | NE    |
+| Meadow Grove  | Stock Car         | Justin Addison      | NE    |
+| Meadow Grove  | Northern Sportmod | Justin Addison      | NE    |
+| Salina        | Mod Lite          | Justin Kinderknecht | KS    |
+| Salina        | Stock Car         | Justin Kinderknecht | KS    |
+| Fertile       | Modified          | Kelly Shryock       | IA    |
+| Fertile       | Stock Car         | Kelly Shryock       | IA    |
+| Stayton       | Modified          | Kersey Ferrando     | OR    |
+| Stayton       | Stock Car         | Kersey Ferrando     | OR    |
+| Pilot Point   | Modified          | Kyle Robinson       | TX    |
+| Pilot Point   | Stock Car         | Kyle Robinson       | TX    |
+| Beloit        | Modified          | Larry Sutton        | KS    |
+| Beloit        | Stock Car         | Larry Sutton        | KS    |
+| Swea City     | Stock Car         | Matthew Looft       | IA    |
+| Swea City     | Northern Sportmod | Matthew Looft       | IA    |
+| Fremont       | Modified          | Mike Lineberry      | NE    |
+| Fremont       | Stock Car         | Mike Lineberry      | NE    |
+| Hoisington    | Stock Car         | Mike Petersilie     | KS    |
+| Hoisington    | Late Model        | Mike Petersilie     | KS    |
+| Price         | Hobby Stock       | Payce Herrera       | UT    |
+| Price         | Northern Sportmod | Payce Herrera       | UT    |
+| Chowchilla    | Modified          | Randy Brown         | CA    |
+| Chowchilla    | Stock Car         | Randy Brown         | CA    |
+| Green Bay     | Modified          | Rob Charapata       | WI    |
+| Green Bay     | Stock Car         | Rob Charapata       | WI    |
+| Yreka         | Stock Car         | Ryan Peery          | CA    |
+| Yreka         | Northern Sportmod | Ryan Peery          | CA    |
+| Denison       | Modified          | Shane DeMey         | IA    |
+| Denison       | Late Model        | Shane DeMey         | IA    |
+| Yankton       | Hobby Stock       | Taylor Brown        | SD    |
+| Yankton       | Sport Compact     | Taylor Brown        | SD    |
+| Cave Creek    | Stock Car         | Taylor Kuehl        | AZ    |
+| Cave Creek    | Northern Sportmod | Taylor Kuehl        | AZ    |
+| Denmark       | Modified          | Tim Czarneski       | WI    |
+| Denmark       | Stock Car         | Tim Czarneski       | WI    |
+| Schleswig     | Modified          | Trey Kline          | IA    |
+| Schleswig     | Stock Car         | Trey Kline          | IA    |
+| Hays          | Stock Car         | Troy Burkhart       | KS    |
+| Hays          | Late Model        | Troy Burkhart       | KS    |
+| Oakley        | Modified          | Troy Foulger        | CA    |
+| Oakley        | Stock Car         | Troy Foulger        | CA    |
+| Calera        | Modified          | William Gould       | OK    |
+| Calera        | Stock Car         | William Gould       | OK    |
+| Farmington    | Modified          | Zane DeVilbiss      | NM    |
+| Farmington    | Stock Car         | Zane DeVilbiss      | NM    |
++---------------+-------------------+---------------------+-------+
+(93 rows)
