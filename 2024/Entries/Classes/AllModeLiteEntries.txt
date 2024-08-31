@@ -43,6 +43,7 @@
 | Nevada           | Travis Stensland     | IA    |
 | Ames             | Jason Toppenberg     | IA    |
 | Iowa City        | James Wonick         | IA    |
+| Ames             | Bryan Zehm           | IA    |
 | Metamora         | Brandon Freeburg     | IL    |
 | Woodhull         | Zach Holerud         | IL    |
 | Freeman Spur     | Josh Hutchinson      | IL    |
@@ -85,4 +86,4 @@
 | Vidor            | Scott Jordan         | TX    |
 | Beaumont         | Jacob Rayburn        | TX    |
 +------------------+----------------------+-------+
-(83 rows)
+(84 rows)

@@ -244,6 +244,7 @@ Parsed entry data from IMCA Press Releases
 | Nevada             | Mod Lite          | Travis Stensland            | IA    |
 | Ames               | Mod Lite          | Jason Toppenberg            | IA    |
 | Iowa City          | Mod Lite          | James Wonick                | IA    |
+| Ames               | Mod Lite          | Bryan Zehm                  | IA    |
 | Metamora           | Mod Lite          | Brandon Freeburg            | IL    |
 | Woodhull           | Mod Lite          | Zach Holerud                | IL    |
 | Freeman Spur       | Mod Lite          | Josh Hutchinson             | IL    |
@@ -1065,6 +1066,5 @@ Parsed entry data from IMCA Press Releases
 | Rock Springs       | Stock Car         | Justin Wright               | WY    |
 | Green River        | Stock Car         | Justen Yeager               | WY    |
 +--------------------+-------------------+-----------------------------+-------+
-(1053 rows)
-
+(1054 rows)
 ```
