@@ -4,7 +4,7 @@ rm -rf Entries
 # Ensure directories exist
 mkdir -p Entries
 mkdir -p Entries/Classes
-mkdir -p Entries/Nebraska
+mkdir -p Entries/States/Nebraska
 
 # All Stock Cars
 echo 'All Stock Car Entries'
@@ -43,7 +43,7 @@ echo ''
 
 # All Nebraska Entries
 echo 'All Nebraska Entires'
-dsq SuperNationals42.csv "SELECT * FROM {} WHERE state = 'NE' ORDER BY class" --pretty 2>&1 | tee Entries/Nebraska/AllNebraskaEntries.txt
+dsq SuperNationals42.csv "SELECT * FROM {} WHERE state = 'NE' ORDER BY class" --pretty 2>&1 | tee Entries/States/Nebraska/AllNebraskaEntries.txt
 echo ''
 
 # Mult-Class Drivers
